@@ -1,0 +1,19 @@
+.carousel-caption {
+    max-width: 100%;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  @media (min-width: 576px) {
+    .carousel-caption {
+      bottom: 1.5rem;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .carousel-caption {
+      bottom: 2rem;
+    }
+  }
+  
